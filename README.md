@@ -25,7 +25,7 @@ An Arabic-language Power BI dashboard that brings sales, purchasing, inventory, 
 
 ## Project files
 
-- Power BI report: Cottonil-Dashboard.pbix
+- [Power BI report](Cottonil-Dashboard.pbix)
 - Excel workbooks for sales, purchases, inventory counts, and supplier accounts
 - [Analysis report](Cottonil-Analysis-Report.pdf)
 
